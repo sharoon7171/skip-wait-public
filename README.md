@@ -13,7 +13,7 @@
 | Chrome Web Store | [Install Skip Wait](https://chromewebstore.google.com/detail/skip-wait/hdoecnlghjglmnjpnhaaeofcgocdgkhd) |
 | Request a site | [Open an issue](https://github.com/sharoon7171/skip-wait-public/issues/new?template=request_support.yml) |
 
-**5 free bypasses each day** with no key. For unlimited use: **$1.50 per month** on EAS Store, then activate the key in the popup.
+**5 free bypasses each day** with no key. For unlimited use: **$5 per 2 months** on EAS Store, then activate the key in the popup.
 
 Skip Wait is a **FastForward** and **Universal Bypass** alternative. It is not FastForward or Universal Bypass. It runs only on matching pages—other sites stay unchanged. No paste tool and no site-by-site setup.
 
@@ -48,9 +48,9 @@ Coverage is by flow, not a frozen brand list. The live catalog is on [Supported 
 | Plan | What you get |
 | --- | --- |
 | Free (no key) | 5 bypasses per day on your device; resets at local midnight. A short-link chain across several pages still counts as one use. |
-| Monthly | $1.50 / month unlimited on one device via [EAS Store](https://eas-x.com/products/skip-wait-bypass-timers-countdowns-chrome-extension-license) |
+| 2 Months | $5 / 2 months unlimited on one device via [EAS Store](https://eas-x.com/products/skip-wait-bypass-timers-countdowns-chrome-extension-license) |
 
-One key per device. A live monthly key does not use the daily free count.
+One key per device. A live license does not use the daily free count.
 
 ---
 
@@ -58,7 +58,7 @@ One key per device. A live monthly key does not use the daily free count.
 
 1. Install Skip Wait from the [Chrome Web Store](https://chromewebstore.google.com/detail/skip-wait/hdoecnlghjglmnjpnhaaeofcgocdgkhd).
 2. Open supported shorteners, waiting pages, or file-host links as usual.
-3. Optional: buy a $1.50 monthly key on [EAS Store](https://eas-x.com/products/skip-wait-bypass-timers-countdowns-chrome-extension-license), paste it in the popup, and tap **Activate**.
+3. Optional: buy a $5 per 2 months key on [EAS Store](https://eas-x.com/products/skip-wait-bypass-timers-countdowns-chrome-extension-license), paste it in the popup, and tap **Activate**.
 4. After five free uses with no live key, wait until the next local day or activate a key.
 
 On a supported page you either land on the final URL, or Skip Wait automates the remaining wait and Continue clicks. No setup for listed sites.
