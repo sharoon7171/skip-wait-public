@@ -713,7 +713,8 @@
   },
   "filepress": {
     "hosts": [
-      "filepress.baby"
+      "filepress.baby",
+      "filepress.lat"
     ]
   },
   "filehippo": {
