@@ -615,9 +615,14 @@
       "hubcloud.foo",
       "hubcloud.club",
       "hubcloud.fans",
-      "hubcloud.ist",
+      "hubcloud.ist"
+    ]
+  },
+  "hdhub4u-vcloud": {
+    "hosts": [
       "vcloud.zip",
-      "vcloud.fit"
+      "vcloud.fit",
+      "vcloud.beer"
     ]
   },
   "hdhub4u-hubcdn": {
